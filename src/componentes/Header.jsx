@@ -8,6 +8,7 @@ function Header(){
                 <Link to="/">Inicio</Link>
                 <Link to="/productos">Productos</Link>
                 <Link to="/preguntas">Preguntas</Link>
+                <Link to="/Login"><UserRound size={25}/></Link>
             </nav>
         </header>
     )
